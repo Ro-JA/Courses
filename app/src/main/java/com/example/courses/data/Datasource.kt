@@ -1,7 +1,7 @@
-/*
 package com.example.courses.data
 
 import com.example.courses.R
+import com.example.courses.model.Topic
 
 object DataSource {
     val topics = listOf(
@@ -20,4 +20,4 @@ object DataSource {
         Topic(R.string.photography, 321, R.drawable.photography),
         Topic(R.string.tech, 118, R.drawable.tech)
     )
-}*/
+}
